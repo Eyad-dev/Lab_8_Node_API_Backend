@@ -72,6 +72,6 @@ URL: /books/:id
 
 Method: DELETE
 
-URL Params: id (integer) — The ID of the book to delete.
+URL Params: id (integer)The ID of the book to delete.
 
 Success Response: 200 OK
